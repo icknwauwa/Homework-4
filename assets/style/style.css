@@ -1,0 +1,50 @@
+.col-md-6 {
+    background-color: rgb(112, 10, 126);
+    font-size: larger;
+}
+
+#main {
+    margin-top: 30px;
+    color: rgb(57, 0, 80);
+    text-decoration-style: solid;
+    text-align: center;
+    font-size: 50px;
+}
+
+#highScore {
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+
+#question {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#question, #answer {
+    margin: 50px 250px;
+}
+#timer {
+    text-align: right;
+    color: black;
+}
+
+#btn1, #btn2, #btn3, #btn4 {
+    display: none;
+    width: 200px;
+    text-align: left;
+}
+
+#divstart, #divend, #end-result, #divHighScore {
+    display: none;
+}
+
+#btnStart {
+    margin-left: 830px;
+    background: rgb(80, 0, 209);
+    font-weight: bolder;
+    height: 100px;
+    width: 260px;
+    font-size: 50px;
+    text-align: center;
+}
